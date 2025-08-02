@@ -71,4 +71,5 @@ public class ATMInterface {
 
         scanner.close();
     }
+
 }
